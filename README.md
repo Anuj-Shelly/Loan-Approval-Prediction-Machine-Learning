@@ -13,9 +13,3 @@ The project demonstrates end-to-end data science workflow — from data explorat
 - 🤖 **Model Training & Evaluation** — Compare multiple ML models for performance
 
 ---
-
-## 🧩 Requirements
-Install the required Python libraries before running the notebook:
-
-```bash
-pip install pandas numpy seaborn matplotlib scikit-learn
